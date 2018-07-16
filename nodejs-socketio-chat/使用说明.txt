@@ -1,0 +1,6 @@
+1 安装依赖
+npm install --save express
+npm install --save socket.io
+
+2 进入server执行 node index.js
+3 浏览器访问http://localhost:3000/index.html
