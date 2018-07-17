@@ -4,7 +4,7 @@
 	p = parseInt,
 	dd = d.documentElement,
 	db = d.body,
-	dc = d.compatMode == 'CSS1Compat',
+	dc = d.compatMode == 'CSS1Compat', //标准兼容模式开启 
 	dx = dc ? dd: db,
 	ec = encodeURIComponent;
 	
@@ -97,7 +97,7 @@
 			this.scrollToBottom();
 			
 			//连接websocket后端服务器
-			this.socket = io.connect('ws://localhost:3000');
+			this.socket = io.connect('ws://172.19.82.168:3000');
 			
 			//告诉服务器端有用户登录
 			this.socket.emit('login', {userid:this.userid, username:this.username});

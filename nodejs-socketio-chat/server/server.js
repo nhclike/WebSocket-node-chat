@@ -58,6 +58,6 @@ io.on('connection', function(socket){
   
 });
 
-http.listen(3000, function(){
+http.listen(3000, '172.19.82.168',function(){
 	console.log('listening on *:3000');
 });
