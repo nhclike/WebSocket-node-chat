@@ -25,7 +25,7 @@ var server = require('http').createServer(function(req, res) {
     case '172.19.82.168:8080':    //监听这个地址
    //这个地址在window上用ipconfig查看,mac/linux用ifconfig查看
  
-        proxy.web(req, res, { target: 'http://172.19.82.162:3000' });  //转到这个地址
+        proxy.web(req, res, { target: 'http://172.19.82.168:3000' });  //转到这个地址
     break;  
     
     default:  

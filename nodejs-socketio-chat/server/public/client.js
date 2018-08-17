@@ -33,7 +33,7 @@
 					username: this.username,
 					content: content
 				};
-				this.socket.emit('message', obj);
+				this.socket.emit('meg', obj);
 				d.getElementById("content").value = '';
 			}
 			return false;
@@ -113,7 +113,7 @@
 			});
 			
 			//监听消息发送
-			this.socket.on('message', function(obj){
+			this.socket.on('meg', function(obj){
 				var isme = (obj.userid == CHAT.userid) ? true : false;
 				var contentDiv = '<div>'+obj.content+'</div>';
 				var usernameDiv = '<span>'+obj.username+'</span>';

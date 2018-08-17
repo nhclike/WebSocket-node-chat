@@ -50,9 +50,9 @@ io.on('connection', function(socket){
 	});
 	
 	//监听用户发布聊天内容
-	socket.on('message', function(obj){
+	socket.on('meg', function(obj){
 		//向所有客户端广播发布的消息
-		io.emit('message', obj);
+		io.emit('meg', obj);
 		console.log(obj.username+'说：'+obj.content);
 	});
   
