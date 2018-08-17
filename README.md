@@ -4,7 +4,9 @@ this is a chat room use WebSocket and NodeJs
 npm install --save express
 npm install --save socket.io
 
-2 进入server执行 node server.js
+2 进入server执行 
+cnpm install
+node server.js
 3 浏览器访问http://172.19.82.168:3000/index.html
 这里的ip是本机启动服务的ip，只要大家在一个局域网内就可以访问到进入聊天室
 需要修改的地方 index.html中
