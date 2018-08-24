@@ -1,0 +1,1653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f3496ce-68b9-4de7-964a-5596ece0124f" name="Default" comment="增加发送demo">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_async-limiter@1.0.0@async-limiter/coverage/lcov-report/sort-arrow-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/WebSocket-node-chat.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/lij.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/.package_versions.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_accepts@1.3.5@accepts/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_accepts@1.3.5@accepts/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_accepts@1.3.5@accepts/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_accepts@1.3.5@accepts/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_accepts@1.3.5@accepts/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_accepts@1.3.5@accepts/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_after@0.8.2@after/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_after@0.8.2@after/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_after@0.8.2@after/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_after@0.8.2@after/LICENCE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_after@0.8.2@after/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_after@0.8.2@after/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_after@0.8.2@after/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_after@0.8.2@after/test/after-test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_array-flatten@1.1.1@array-flatten/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_array-flatten@1.1.1@array-flatten/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_array-flatten@1.1.1@array-flatten/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_array-flatten@1.1.1@array-flatten/array-flatten.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_array-flatten@1.1.1@array-flatten/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_arraybuffer.slice@0.0.7@arraybuffer.slice/test/slice-buffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_async-limiter@1.0.0@async-limiter/coverage/lcov-report/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_async-limiter@1.0.0@async-limiter/coverage/lcov-report/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_async-limiter@1.0.0@async-limiter/coverage/lcov-report/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_async-limiter@1.0.0@async-limiter/coverage/lcov-report/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_backo2@1.0.2@backo2/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_backo2@1.0.2@backo2/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_backo2@1.0.2@backo2/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_backo2@1.0.2@backo2/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_backo2@1.0.2@backo2/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_backo2@1.0.2@backo2/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_backo2@1.0.2@backo2/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_backo2@1.0.2@backo2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_backo2@1.0.2@backo2/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_base64-arraybuffer@0.1.5@base64-arraybuffer/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_base64-arraybuffer@0.1.5@base64-arraybuffer/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_base64-arraybuffer@0.1.5@base64-arraybuffer/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_base64-arraybuffer@0.1.5@base64-arraybuffer/LICENSE-MIT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_base64-arraybuffer@0.1.5@base64-arraybuffer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_base64-arraybuffer@0.1.5@base64-arraybuffer/lib/base64-arraybuffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_base64-arraybuffer@0.1.5@base64-arraybuffer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_base64id@1.0.0@base64id/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_base64id@1.0.0@base64id/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_base64id@1.0.0@base64id/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_base64id@1.0.0@base64id/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_base64id@1.0.0@base64id/lib/base64id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_base64id@1.0.0@base64id/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_blob@0.0.4@blob/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_blob@0.0.4@blob/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_blob@0.0.4@blob/.zuul.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_blob@0.0.4@blob/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_blob@0.0.4@blob/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_blob@0.0.4@blob/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_blob@0.0.4@blob/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_blob@0.0.4@blob/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_body-parser@1.18.2@body-parser/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_body-parser@1.18.2@body-parser/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_body-parser@1.18.2@body-parser/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_body-parser@1.18.2@body-parser/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_body-parser@1.18.2@body-parser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_body-parser@1.18.2@body-parser/lib/read.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_body-parser@1.18.2@body-parser/lib/types/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_body-parser@1.18.2@body-parser/lib/types/raw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_body-parser@1.18.2@body-parser/lib/types/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_body-parser@1.18.2@body-parser/lib/types/urlencoded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_body-parser@1.18.2@body-parser/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_bytes@3.0.0@bytes/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_bytes@3.0.0@bytes/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_bytes@3.0.0@bytes/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_bytes@3.0.0@bytes/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_bytes@3.0.0@bytes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_bytes@3.0.0@bytes/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_callsite@1.0.0@callsite/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_callsite@1.0.0@callsite/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_callsite@1.0.0@callsite/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_callsite@1.0.0@callsite/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_callsite@1.0.0@callsite/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_callsite@1.0.0@callsite/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_callsite@1.0.0@callsite/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_component-bind@1.0.0@component-bind/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_component-bind@1.0.0@component-bind/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_component-bind@1.0.0@component-bind/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_component-bind@1.0.0@component-bind/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_component-bind@1.0.0@component-bind/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_component-bind@1.0.0@component-bind/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_component-bind@1.0.0@component-bind/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_component-bind@1.0.0@component-bind/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_component-emitter@1.2.1@component-emitter/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_component-emitter@1.2.1@component-emitter/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_component-emitter@1.2.1@component-emitter/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_component-emitter@1.2.1@component-emitter/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_component-emitter@1.2.1@component-emitter/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_component-inherit@0.0.3@component-inherit/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_content-disposition@0.5.2@content-disposition/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_content-disposition@0.5.2@content-disposition/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_content-disposition@0.5.2@content-disposition/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_content-disposition@0.5.2@content-disposition/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_content-disposition@0.5.2@content-disposition/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_content-disposition@0.5.2@content-disposition/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_content-type@1.0.4@content-type/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_content-type@1.0.4@content-type/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_content-type@1.0.4@content-type/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_content-type@1.0.4@content-type/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_content-type@1.0.4@content-type/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_content-type@1.0.4@content-type/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_cookie-signature@1.0.6@cookie-signature/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_cookie-signature@1.0.6@cookie-signature/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_cookie-signature@1.0.6@cookie-signature/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_cookie-signature@1.0.6@cookie-signature/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_cookie-signature@1.0.6@cookie-signature/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_cookie-signature@1.0.6@cookie-signature/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_cookie@0.3.1@cookie/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_cookie@0.3.1@cookie/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_cookie@0.3.1@cookie/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_cookie@0.3.1@cookie/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_cookie@0.3.1@cookie/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_cookie@0.3.1@cookie/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@2.6.9@debug/.coveralls.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@2.6.9@debug/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@2.6.9@debug/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@2.6.9@debug/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@2.6.9@debug/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@2.6.9@debug/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@2.6.9@debug/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@2.6.9@debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@2.6.9@debug/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@2.6.9@debug/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@2.6.9@debug/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@2.6.9@debug/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@2.6.9@debug/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@2.6.9@debug/src/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@2.6.9@debug/src/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@2.6.9@debug/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@2.6.9@debug/src/inspector-log.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@2.6.9@debug/src/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@3.1.0@debug/.coveralls.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@3.1.0@debug/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@3.1.0@debug/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@3.1.0@debug/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@3.1.0@debug/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@3.1.0@debug/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@3.1.0@debug/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@3.1.0@debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@3.1.0@debug/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@3.1.0@debug/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@3.1.0@debug/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@3.1.0@debug/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@3.1.0@debug/src/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@3.1.0@debug/src/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@3.1.0@debug/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_debug@3.1.0@debug/src/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_depd@1.1.1@depd/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_depd@1.1.1@depd/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_depd@1.1.1@depd/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_depd@1.1.1@depd/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_depd@1.1.1@depd/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_depd@1.1.1@depd/lib/browser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_depd@1.1.1@depd/lib/compat/callsite-tostring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_depd@1.1.1@depd/lib/compat/event-listener-count.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_depd@1.1.1@depd/lib/compat/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_depd@1.1.1@depd/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_depd@1.1.2@depd/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_depd@1.1.2@depd/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_depd@1.1.2@depd/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_depd@1.1.2@depd/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_depd@1.1.2@depd/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_depd@1.1.2@depd/lib/browser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_depd@1.1.2@depd/lib/compat/callsite-tostring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_depd@1.1.2@depd/lib/compat/event-listener-count.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_depd@1.1.2@depd/lib/compat/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_depd@1.1.2@depd/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_destroy@1.0.4@destroy/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_destroy@1.0.4@destroy/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_destroy@1.0.4@destroy/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_destroy@1.0.4@destroy/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_destroy@1.0.4@destroy/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ee-first@1.1.1@ee-first/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ee-first@1.1.1@ee-first/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ee-first@1.1.1@ee-first/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ee-first@1.1.1@ee-first/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ee-first@1.1.1@ee-first/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_encodeurl@1.0.2@encodeurl/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_encodeurl@1.0.2@encodeurl/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_encodeurl@1.0.2@encodeurl/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_encodeurl@1.0.2@encodeurl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_encodeurl@1.0.2@encodeurl/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_encodeurl@1.0.2@encodeurl/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io-client@3.2.1@engine.io-client/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io-client@3.2.1@engine.io-client/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io-client@3.2.1@engine.io-client/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io-client@3.2.1@engine.io-client/engine.io.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io-client@3.2.1@engine.io-client/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io-client@3.2.1@engine.io-client/lib/socket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io-client@3.2.1@engine.io-client/lib/transport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io-client@3.2.1@engine.io-client/lib/xmlhttprequest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io-client@3.2.1@engine.io-client/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io-parser@2.1.2@engine.io-parser/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io-parser@2.1.2@engine.io-parser/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io-parser@2.1.2@engine.io-parser/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io-parser@2.1.2@engine.io-parser/lib/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io-parser@2.1.2@engine.io-parser/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io-parser@2.1.2@engine.io-parser/lib/keys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io-parser@2.1.2@engine.io-parser/lib/utf8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io-parser@2.1.2@engine.io-parser/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io@3.2.0@engine.io/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io@3.2.0@engine.io/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io@3.2.0@engine.io/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io@3.2.0@engine.io/lib/engine.io.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io@3.2.0@engine.io/lib/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io@3.2.0@engine.io/lib/socket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io@3.2.0@engine.io/lib/transport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io@3.2.0@engine.io/lib/transports/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io@3.2.0@engine.io/lib/transports/polling-jsonp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io@3.2.0@engine.io/lib/transports/polling-xhr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io@3.2.0@engine.io/lib/transports/polling.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io@3.2.0@engine.io/lib/transports/websocket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_engine.io@3.2.0@engine.io/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_escape-html@1.0.3@escape-html/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_escape-html@1.0.3@escape-html/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_escape-html@1.0.3@escape-html/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_escape-html@1.0.3@escape-html/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_escape-html@1.0.3@escape-html/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_etag@1.8.1@etag/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_etag@1.8.1@etag/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_etag@1.8.1@etag/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_etag@1.8.1@etag/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_etag@1.8.1@etag/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_etag@1.8.1@etag/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_eventemitter3@3.1.0@eventemitter3/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_eventemitter3@3.1.0@eventemitter3/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_eventemitter3@3.1.0@eventemitter3/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_eventemitter3@3.1.0@eventemitter3/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_eventemitter3@3.1.0@eventemitter3/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_eventemitter3@3.1.0@eventemitter3/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_eventemitter3@3.1.0@eventemitter3/umd/eventemitter3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_eventemitter3@3.1.0@eventemitter3/umd/eventemitter3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_eventemitter3@3.1.0@eventemitter3/umd/eventemitter3.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_express@4.16.3@express/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_express@4.16.3@express/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_express@4.16.3@express/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_express@4.16.3@express/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_express@4.16.3@express/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_express@4.16.3@express/lib/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_express@4.16.3@express/lib/express.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_express@4.16.3@express/lib/middleware/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_express@4.16.3@express/lib/middleware/query.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_express@4.16.3@express/lib/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_express@4.16.3@express/lib/response.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_express@4.16.3@express/lib/router/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_express@4.16.3@express/lib/router/layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_express@4.16.3@express/lib/router/route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_express@4.16.3@express/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_express@4.16.3@express/lib/view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_express@4.16.3@express/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_finalhandler@1.1.1@finalhandler/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_finalhandler@1.1.1@finalhandler/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_finalhandler@1.1.1@finalhandler/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_finalhandler@1.1.1@finalhandler/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_finalhandler@1.1.1@finalhandler/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_finalhandler@1.1.1@finalhandler/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_follow-redirects@1.5.1@follow-redirects/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_follow-redirects@1.5.1@follow-redirects/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_follow-redirects@1.5.1@follow-redirects/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_follow-redirects@1.5.1@follow-redirects/http.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_follow-redirects@1.5.1@follow-redirects/https.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_follow-redirects@1.5.1@follow-redirects/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_follow-redirects@1.5.1@follow-redirects/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_forwarded@0.1.2@forwarded/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_forwarded@0.1.2@forwarded/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_forwarded@0.1.2@forwarded/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_forwarded@0.1.2@forwarded/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_forwarded@0.1.2@forwarded/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_forwarded@0.1.2@forwarded/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_fresh@0.5.2@fresh/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_fresh@0.5.2@fresh/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_fresh@0.5.2@fresh/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_fresh@0.5.2@fresh/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_fresh@0.5.2@fresh/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_fresh@0.5.2@fresh/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_has-binary2@1.0.3@has-binary2/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_has-binary2@1.0.3@has-binary2/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_has-binary2@1.0.3@has-binary2/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_has-binary2@1.0.3@has-binary2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_has-binary2@1.0.3@has-binary2/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_has-binary2@1.0.3@has-binary2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_has-cors@1.1.0@has-cors/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_has-cors@1.1.0@has-cors/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_has-cors@1.1.0@has-cors/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_has-cors@1.1.0@has-cors/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_has-cors@1.1.0@has-cors/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_has-cors@1.1.0@has-cors/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_has-cors@1.1.0@has-cors/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_has-cors@1.1.0@has-cors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_has-cors@1.1.0@has-cors/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_http-errors@1.6.2@http-errors/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_http-errors@1.6.2@http-errors/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_http-errors@1.6.2@http-errors/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_http-errors@1.6.2@http-errors/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_http-errors@1.6.2@http-errors/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_http-errors@1.6.2@http-errors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_http-errors@1.6.3@http-errors/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_http-errors@1.6.3@http-errors/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_http-errors@1.6.3@http-errors/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_http-errors@1.6.3@http-errors/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_http-errors@1.6.3@http-errors/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_http-errors@1.6.3@http-errors/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/Changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/encodings/dbcs-codec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/encodings/dbcs-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/encodings/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/encodings/internal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/encodings/sbcs-codec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/encodings/sbcs-data-generated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/encodings/sbcs-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/encodings/tables/big5-added.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/encodings/tables/cp936.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/encodings/tables/cp949.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/encodings/tables/cp950.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/encodings/tables/eucjp.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/encodings/tables/gb18030-ranges.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/encodings/tables/gbk-added.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/encodings/tables/shiftjis.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/encodings/utf16.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/encodings/utf7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/lib/bom-handling.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/lib/extend-node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/lib/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/lib/streams.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_iconv-lite@0.4.19@iconv-lite/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_indexof@0.0.1@indexof/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_indexof@0.0.1@indexof/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_indexof@0.0.1@indexof/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_indexof@0.0.1@indexof/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_indexof@0.0.1@indexof/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_indexof@0.0.1@indexof/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_indexof@0.0.1@indexof/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_inherits@2.0.3@inherits/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_inherits@2.0.3@inherits/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_inherits@2.0.3@inherits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_inherits@2.0.3@inherits/inherits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_inherits@2.0.3@inherits/inherits_browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_inherits@2.0.3@inherits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ipaddr.js@1.6.0@ipaddr.js/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ipaddr.js@1.6.0@ipaddr.js/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ipaddr.js@1.6.0@ipaddr.js/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ipaddr.js@1.6.0@ipaddr.js/Cakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ipaddr.js@1.6.0@ipaddr.js/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ipaddr.js@1.6.0@ipaddr.js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ipaddr.js@1.6.0@ipaddr.js/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ipaddr.js@1.6.0@ipaddr.js/ipaddr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ipaddr.js@1.6.0@ipaddr.js/lib/ipaddr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ipaddr.js@1.6.0@ipaddr.js/lib/ipaddr.js.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ipaddr.js@1.6.0@ipaddr.js/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ipaddr.js@1.6.0@ipaddr.js/src/ipaddr.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ipaddr.js@1.6.0@ipaddr.js/test/ipaddr.test.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_isarray@2.0.1@isarray/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_isarray@2.0.1@isarray/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_isarray@2.0.1@isarray/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_isarray@2.0.1@isarray/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_media-typer@0.3.0@media-typer/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_media-typer@0.3.0@media-typer/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_media-typer@0.3.0@media-typer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_media-typer@0.3.0@media-typer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_media-typer@0.3.0@media-typer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_media-typer@0.3.0@media-typer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_methods@1.1.2@methods/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_methods@1.1.2@methods/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_methods@1.1.2@methods/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_methods@1.1.2@methods/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_methods@1.1.2@methods/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_methods@1.1.2@methods/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime-db@1.33.0@mime-db/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime-db@1.33.0@mime-db/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime-db@1.33.0@mime-db/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime-db@1.33.0@mime-db/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime-db@1.33.0@mime-db/db.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime-db@1.33.0@mime-db/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime-db@1.33.0@mime-db/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime-types@2.1.18@mime-types/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime-types@2.1.18@mime-types/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime-types@2.1.18@mime-types/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime-types@2.1.18@mime-types/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime-types@2.1.18@mime-types/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime-types@2.1.18@mime-types/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime@1.4.1@mime/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime@1.4.1@mime/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime@1.4.1@mime/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime@1.4.1@mime/build/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime@1.4.1@mime/build/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime@1.4.1@mime/cli.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime@1.4.1@mime/mime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime@1.4.1@mime/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_mime@1.4.1@mime/types.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ms@2.0.0@ms/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ms@2.0.0@ms/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ms@2.0.0@ms/license.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ms@2.0.0@ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ms@2.0.0@ms/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_negotiator@0.6.1@negotiator/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_negotiator@0.6.1@negotiator/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_negotiator@0.6.1@negotiator/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_negotiator@0.6.1@negotiator/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_negotiator@0.6.1@negotiator/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_negotiator@0.6.1@negotiator/lib/charset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_negotiator@0.6.1@negotiator/lib/encoding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_negotiator@0.6.1@negotiator/lib/language.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_negotiator@0.6.1@negotiator/lib/mediaType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_negotiator@0.6.1@negotiator/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_object-component@0.0.3@object-component/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_object-component@0.0.3@object-component/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_object-component@0.0.3@object-component/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_object-component@0.0.3@object-component/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_object-component@0.0.3@object-component/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_object-component@0.0.3@object-component/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_object-component@0.0.3@object-component/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_object-component@0.0.3@object-component/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_object-component@0.0.3@object-component/test/object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_on-finished@2.3.0@on-finished/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_on-finished@2.3.0@on-finished/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_on-finished@2.3.0@on-finished/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_on-finished@2.3.0@on-finished/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_on-finished@2.3.0@on-finished/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_on-finished@2.3.0@on-finished/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseqs@0.0.5@parseqs/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseqs@0.0.5@parseqs/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseqs@0.0.5@parseqs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseqs@0.0.5@parseqs/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseqs@0.0.5@parseqs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseqs@0.0.5@parseqs/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseqs@0.0.5@parseqs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseqs@0.0.5@parseqs/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseuri@0.0.5@parseuri/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseuri@0.0.5@parseuri/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseuri@0.0.5@parseuri/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseuri@0.0.5@parseuri/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseuri@0.0.5@parseuri/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseuri@0.0.5@parseuri/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseuri@0.0.5@parseuri/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseuri@0.0.5@parseuri/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseuri@0.0.5@parseuri/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseurl@1.3.2@parseurl/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseurl@1.3.2@parseurl/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseurl@1.3.2@parseurl/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseurl@1.3.2@parseurl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseurl@1.3.2@parseurl/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_parseurl@1.3.2@parseurl/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_path-to-regexp@0.1.7@path-to-regexp/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_path-to-regexp@0.1.7@path-to-regexp/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_path-to-regexp@0.1.7@path-to-regexp/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_path-to-regexp@0.1.7@path-to-regexp/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_path-to-regexp@0.1.7@path-to-regexp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_path-to-regexp@0.1.7@path-to-regexp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_proxy-addr@2.0.3@proxy-addr/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_proxy-addr@2.0.3@proxy-addr/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_proxy-addr@2.0.3@proxy-addr/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_proxy-addr@2.0.3@proxy-addr/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_proxy-addr@2.0.3@proxy-addr/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_proxy-addr@2.0.3@proxy-addr/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_qs@6.5.1@qs/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_qs@6.5.1@qs/.eslintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_qs@6.5.1@qs/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_qs@6.5.1@qs/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_qs@6.5.1@qs/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_qs@6.5.1@qs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_qs@6.5.1@qs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_qs@6.5.1@qs/dist/qs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_qs@6.5.1@qs/lib/formats.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_qs@6.5.1@qs/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_qs@6.5.1@qs/lib/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_qs@6.5.1@qs/lib/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_qs@6.5.1@qs/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_qs@6.5.1@qs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_qs@6.5.1@qs/test/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_qs@6.5.1@qs/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_qs@6.5.1@qs/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_qs@6.5.1@qs/test/stringify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_qs@6.5.1@qs/test/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_range-parser@1.2.0@range-parser/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_range-parser@1.2.0@range-parser/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_range-parser@1.2.0@range-parser/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_range-parser@1.2.0@range-parser/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_range-parser@1.2.0@range-parser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_range-parser@1.2.0@range-parser/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_raw-body@2.3.2@raw-body/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_raw-body@2.3.2@raw-body/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_raw-body@2.3.2@raw-body/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_raw-body@2.3.2@raw-body/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_raw-body@2.3.2@raw-body/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_raw-body@2.3.2@raw-body/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_raw-body@2.3.2@raw-body/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_requires-port@1.0.0@requires-port/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_requires-port@1.0.0@requires-port/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_requires-port@1.0.0@requires-port/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_requires-port@1.0.0@requires-port/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_requires-port@1.0.0@requires-port/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_requires-port@1.0.0@requires-port/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_requires-port@1.0.0@requires-port/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_requires-port@1.0.0@requires-port/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_safe-buffer@5.1.1@safe-buffer/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_safe-buffer@5.1.1@safe-buffer/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_safe-buffer@5.1.1@safe-buffer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_safe-buffer@5.1.1@safe-buffer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_safe-buffer@5.1.1@safe-buffer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_safe-buffer@5.1.1@safe-buffer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_safe-buffer@5.1.1@safe-buffer/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_safe-buffer@5.1.2@safe-buffer/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_safe-buffer@5.1.2@safe-buffer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_safe-buffer@5.1.2@safe-buffer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_safe-buffer@5.1.2@safe-buffer/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_safe-buffer@5.1.2@safe-buffer/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_safe-buffer@5.1.2@safe-buffer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_send@0.16.2@send/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_send@0.16.2@send/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_send@0.16.2@send/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_send@0.16.2@send/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_send@0.16.2@send/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_send@0.16.2@send/node_modules/.bin/mime" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_send@0.16.2@send/node_modules/.bin/mime.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_send@0.16.2@send/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_serve-static@1.13.2@serve-static/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_serve-static@1.13.2@serve-static/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_serve-static@1.13.2@serve-static/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_serve-static@1.13.2@serve-static/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_serve-static@1.13.2@serve-static/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_serve-static@1.13.2@serve-static/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_setprototypeof@1.0.3@setprototypeof/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_setprototypeof@1.0.3@setprototypeof/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_setprototypeof@1.0.3@setprototypeof/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_setprototypeof@1.0.3@setprototypeof/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_setprototypeof@1.0.3@setprototypeof/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_setprototypeof@1.1.0@setprototypeof/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_setprototypeof@1.1.0@setprototypeof/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_setprototypeof@1.1.0@setprototypeof/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_setprototypeof@1.1.0@setprototypeof/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_setprototypeof@1.1.0@setprototypeof/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_setprototypeof@1.1.0@setprototypeof/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-adapter@1.1.1@socket.io-adapter/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-adapter@1.1.1@socket.io-adapter/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-adapter@1.1.1@socket.io-adapter/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-adapter@1.1.1@socket.io-adapter/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-adapter@1.1.1@socket.io-adapter/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-client@2.1.1@socket.io-client/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-client@2.1.1@socket.io-client/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-client@2.1.1@socket.io-client/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-client@2.1.1@socket.io-client/dist/socket.io.dev.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-client@2.1.1@socket.io-client/dist/socket.io.dev.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-client@2.1.1@socket.io-client/dist/socket.io.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-client@2.1.1@socket.io-client/dist/socket.io.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-client@2.1.1@socket.io-client/dist/socket.io.slim.dev.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-client@2.1.1@socket.io-client/dist/socket.io.slim.dev.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-client@2.1.1@socket.io-client/dist/socket.io.slim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-client@2.1.1@socket.io-client/dist/socket.io.slim.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-client@2.1.1@socket.io-client/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-client@2.1.1@socket.io-client/lib/manager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-client@2.1.1@socket.io-client/lib/on.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-client@2.1.1@socket.io-client/lib/socket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-client@2.1.1@socket.io-client/lib/url.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-client@2.1.1@socket.io-client/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-parser@3.2.0@socket.io-parser/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-parser@3.2.0@socket.io-parser/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-parser@3.2.0@socket.io-parser/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-parser@3.2.0@socket.io-parser/binary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-parser@3.2.0@socket.io-parser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-parser@3.2.0@socket.io-parser/is-buffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io-parser@3.2.0@socket.io-parser/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io@2.1.1@socket.io/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io@2.1.1@socket.io/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io@2.1.1@socket.io/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io@2.1.1@socket.io/lib/client.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io@2.1.1@socket.io/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io@2.1.1@socket.io/lib/namespace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io@2.1.1@socket.io/lib/parent-namespace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io@2.1.1@socket.io/lib/socket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_socket.io@2.1.1@socket.io/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_statuses@1.5.0@statuses/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_to-array@0.1.4@to-array/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_to-array@0.1.4@to-array/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_to-array@0.1.4@to-array/LICENCE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_to-array@0.1.4@to-array/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_to-array@0.1.4@to-array/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_to-array@0.1.4@to-array/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_type-is@1.6.16@type-is/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_type-is@1.6.16@type-is/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_type-is@1.6.16@type-is/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_type-is@1.6.16@type-is/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_type-is@1.6.16@type-is/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_type-is@1.6.16@type-is/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ultron@1.1.1@ultron/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ultron@1.1.1@ultron/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ultron@1.1.1@ultron/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ultron@1.1.1@ultron/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ultron@1.1.1@ultron/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_unpipe@1.0.0@unpipe/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_unpipe@1.0.0@unpipe/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_unpipe@1.0.0@unpipe/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_unpipe@1.0.0@unpipe/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_unpipe@1.0.0@unpipe/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_unpipe@1.0.0@unpipe/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_utils-merge@1.0.1@utils-merge/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_utils-merge@1.0.1@utils-merge/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_utils-merge@1.0.1@utils-merge/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_utils-merge@1.0.1@utils-merge/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_utils-merge@1.0.1@utils-merge/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_utils-merge@1.0.1@utils-merge/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_vary@1.1.2@vary/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_vary@1.1.2@vary/HISTORY.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_vary@1.1.2@vary/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_vary@1.1.2@vary/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_vary@1.1.2@vary/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_vary@1.1.2@vary/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ws@3.3.3@ws/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ws@3.3.3@ws/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ws@3.3.3@ws/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ws@3.3.3@ws/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ws@3.3.3@ws/lib/BufferUtil.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ws@3.3.3@ws/lib/Constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ws@3.3.3@ws/lib/ErrorCodes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ws@3.3.3@ws/lib/EventTarget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ws@3.3.3@ws/lib/Extensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ws@3.3.3@ws/lib/PerMessageDeflate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ws@3.3.3@ws/lib/Receiver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ws@3.3.3@ws/lib/Sender.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ws@3.3.3@ws/lib/Validation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ws@3.3.3@ws/lib/WebSocket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ws@3.3.3@ws/lib/WebSocketServer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_ws@3.3.3@ws/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_xmlhttprequest-ssl@1.5.5@xmlhttprequest-ssl/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_xmlhttprequest-ssl@1.5.5@xmlhttprequest-ssl/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_xmlhttprequest-ssl@1.5.5@xmlhttprequest-ssl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_xmlhttprequest-ssl@1.5.5@xmlhttprequest-ssl/autotest.watchr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_xmlhttprequest-ssl@1.5.5@xmlhttprequest-ssl/example/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_xmlhttprequest-ssl@1.5.5@xmlhttprequest-ssl/lib/XMLHttpRequest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_xmlhttprequest-ssl@1.5.5@xmlhttprequest-ssl/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_xmlhttprequest-ssl@1.5.5@xmlhttprequest-ssl/tests/test-constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_xmlhttprequest-ssl@1.5.5@xmlhttprequest-ssl/tests/test-events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_xmlhttprequest-ssl@1.5.5@xmlhttprequest-ssl/tests/test-exceptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_xmlhttprequest-ssl@1.5.5@xmlhttprequest-ssl/tests/test-headers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_xmlhttprequest-ssl@1.5.5@xmlhttprequest-ssl/tests/test-redirect-302.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_xmlhttprequest-ssl@1.5.5@xmlhttprequest-ssl/tests/test-redirect-303.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_xmlhttprequest-ssl@1.5.5@xmlhttprequest-ssl/tests/test-redirect-307.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_xmlhttprequest-ssl@1.5.5@xmlhttprequest-ssl/tests/test-request-methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_xmlhttprequest-ssl@1.5.5@xmlhttprequest-ssl/tests/test-request-protocols.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_xmlhttprequest-ssl@1.5.5@xmlhttprequest-ssl/tests/testdata.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_yeast@0.1.2@yeast/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_yeast@0.1.2@yeast/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_yeast@0.1.2@yeast/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_yeast@0.1.2@yeast/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules/_yeast@0.1.2@yeast/package.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="proxy.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nodejs-socketio-chat/server/proxy.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nodejs-socketio-chat/server/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="152">
+                <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nodejs-socketio-chat/server/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo1/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nodejs-socketio-chat/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nodejs-socketio-chat/client/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="client.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nodejs-socketio-chat/client/client.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1938">
+              <caret line="102" column="41" lean-forward="false" selection-start-line="102" selection-start-column="41" selection-end-line="102" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo2/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wsServer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo2/wsServer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/nodejs-socketio-chat/使用说明.txt" />
+        <option value="$PROJECT_DIR$/nodejs-socketio-chat/client/index.html" />
+        <option value="$PROJECT_DIR$/demo/demo.html" />
+        <option value="$PROJECT_DIR$/demo2/wsServer.js" />
+        <option value="$PROJECT_DIR$/demo1/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/nodejs-socketio-chat/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/nodejs-socketio-chat/server/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1352" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSocket-node-chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSocket-node-chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSocket-node-chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSocket-node-chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodejs-socketio-chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSocket-node-chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSocket-node-chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodejs-socketio-chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSocket-node-chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSocket-node-chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodejs-socketio-chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSocket-node-chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSocket-node-chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSocket-node-chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSocket-node-chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="E:/GitHub/vrs" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path" value="D:/node.js/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="N:\WebSocket-node-chat\demo2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="WebSocket-node-chat" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f3496ce-68b9-4de7-964a-5596ece0124f" name="Default" comment="" />
+      <created>1534495632363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534495632363</updated>
+      <workItem from="1534495633976" duration="4145000" />
+      <workItem from="1534727029122" duration="117000" />
+    </task>
+    <task id="LOCAL-00001" summary="增加发送demo">
+      <created>1534498972581</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534498972581</updated>
+    </task>
+    <task id="LOCAL-00002" summary="完善demo">
+      <created>1534499914263</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1534499914263</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4262000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1352" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加发送demo" />
+    <MESSAGE value="完善demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="完善demo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/nodejs-socketio-chat/server/proxy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs-socketio-chat/server/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs-socketio-chat/server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs-socketio-chat/client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs-socketio-chat/client/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="102" column="41" lean-forward="false" selection-start-line="102" selection-start-column="41" selection-end-line="102" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2/wsServer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs-socketio-chat/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs-socketio-chat/使用说明.txt" />
+    <entry file="file://$PROJECT_DIR$/nodejs-socketio-chat/client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs-socketio-chat/client/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="102" column="41" lean-forward="false" selection-start-line="102" selection-start-column="41" selection-end-line="102" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2/wsServer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/nodejs-socketio-chat/server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs-socketio-chat/server/proxy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs-socketio-chat/server/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs-socketio-chat/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
