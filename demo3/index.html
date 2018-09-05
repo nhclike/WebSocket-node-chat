@@ -13,7 +13,11 @@
 			var websocket=new WebSocket('ws://localhost:8001/');
 			websocket.onopen=function () {
 				console.log('websocket open');
-				document.getElementById('recv').innerHTML='connect'
+				document.getElementById('recv').innerHTML='connect';
+					document.getElementById('sendBtn').onclick=function () {
+					var val=document.getElementById('sendTxt').value;
+					websocket.send(val);
+	      }
       }
       websocket.onclose=function () {
 				console.log('websocket close')
@@ -31,10 +35,7 @@
         div.innerHTML=e.data
       }
 
-      document.getElementById('sendBtn').onclick=function () {
-				var val=document.getElementById('sendTxt').value;
-				websocket.send(val);
-      }
+      
 		</script>
 </body>
 </html>

@@ -6,6 +6,7 @@
 </head>
 <body>
 		<h1>WebSocket 测试</h1>
+		<div id='chatStatus'></div>
 		<input id="sendTxt" type="text">
     <button id="sendBtn">发送</button>
 		<div id="recv"></div>
@@ -13,7 +14,11 @@
 			var websocket=new WebSocket('ws://localhost:8001/');
 			websocket.onopen=function () {
 				console.log('websocket open');
-				document.getElementById('recv').innerHTML='connect'
+				document.getElementById('recv').innerHTML='connect';
+					document.getElementById('sendBtn').onclick=function () {
+					var val=document.getElementById('sendTxt').value;
+					websocket.send(val);
+	      }
       }
       websocket.onclose=function () {
 				console.log('websocket close')
@@ -26,14 +31,23 @@
 
       websocket.onmessage=function (e) {
 				console.log(e.data);
-        var div=document.createElement("DIV");
-        document.getElementById('recv').appendChild(div)
-        div.innerHTML=e.data
+				var str=JSON.parse(e.data)
+				showMsg(str);
+        
       }
 
-      document.getElementById('sendBtn').onclick=function () {
-				var val=document.getElementById('sendTxt').value;
-				websocket.send(val);
+      function showMsg(msg){
+      	if(msg.type=='message'){
+					var div=document.createElement("DIV");
+        	document.getElementById('recv').appendChild(div)
+        	div.innerHTML=msg.text
+      	}
+      	else{
+      		var div=document.createElement("DIV");
+        	document.getElementById('chatStatus').appendChild(div)
+        	div.innerHTML=msg.text
+      	}
+      	
       }
 		</script>
 </body>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>WebSocket</title>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.0.3/socket.io.js"></script>
+
+</head>
+<body>
+		<h1>WebSocket 测试</h1>
+ <script>
+   var socket = io('ws://localhost:8002');
+   socket.on('news', function (data) {
+     console.log(data);
+     socket.emit('my other event', { my: 'data' });
+   });
+ </script>
+</body>
+</html>
