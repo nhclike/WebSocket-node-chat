@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>WebSocket</title>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.0.3/socket.io.js"></script>
+	<script src="http://pv.sohu.com/cityjson?ie=utf-8"></script>
+</head>
+<body>
+		<h1>WebSocket 测试</h1>
+		<input type="text" id="msg">
+		<button id="send">发送</button>
+		<div>
+			<span>接收的消息：</span>
+			<p id="receive"></p>
+		</div>
+		<div>
+			<span>人员进出消息</span>
+			<div id="memberStatus">
+
+			</div>
+		</div>
+		<div>
+			<span>连接状态：</span>
+			<div id="connectStatus">
+
+			</div>
+		</div>
+		<script src="jquery-1.11.3.js"></script>
+ <script>
+   var socket = io('ws://localhost:8002');
+   //测试消息通讯
+   socket.on('news', function (data) {
+     console.log(data);
+     socket.emit('my other event', { my: 'data' });
+   });
+   //监听人员登录
+   socket.on('enter',function (data) {
+     console.log(data);
+     $('#memberStatus').append(data+'<br>');
+   });
+   //监听人员登出
+   socket.on('leave',function (data) {
+     console.log(data);
+     $('#memberStatus').append(data+'<br>');
+   });
+   //发送消息
+	 $('#send').click(function () {
+		 var text=$('#msg').val();
+		 var ipInfo=returnCitySN["cip"]+','+returnCitySN["cname"];
+		 var data='('+ipInfo+')说:------'+text;
+		 if(data){
+		   socket.emit('message',data)
+		 }
+   });
+
+	 //监听服务器转发的消息
+	 socket.on('message',function (data) {
+		 $('#receive').append(data+'<br>')
+   });
+   /*客户端socket.on()监听的事件：
+   connect：连接成功
+   connecting：正在连接
+   disconnect：断开连接
+   connect_failed：连接失败
+   error：错误发生，并且无法被其他事件类型所处理
+   message：同服务器端message事件
+   anything：同服务器端anything事件
+   reconnect_failed：重连失败
+   reconnect：成功重连
+   reconnecting：正在重连
+   当第一次连接时，事件触发顺序为：connecting->connect；当失去连接时，事件触发顺序为：disconnect->reconnecting（可能进行多次）->connecting->reconnect->connect。*/
+   socket.on('connecting', function() {
+     console.log("正在连接");
+     $('#connectStatus').append(new Date() +'------正在连接<br>')
+   });
+   socket.on('connect', function() {
+     console.log("连接成功");
+     $('#connectStatus').append(new Date() +'------连接成功<br>')
+
+   });
+   socket.on('disconnect', function() {
+     console.log("与服务其断开");
+     $('#connectStatus').append(new Date() +'------与服务其断开<br>')
+   });
+   socket.on('reconnect', function() {
+     console.log("重新连接到服务器");
+     $('#connectStatus').append(new Date() +'------重新连接到服务器<br>')
+
+   });
+ </script>
+</body>
+</html>
